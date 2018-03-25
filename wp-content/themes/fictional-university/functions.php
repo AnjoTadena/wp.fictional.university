@@ -12,9 +12,11 @@ add_action('wp_enqueue_scripts', 'fictional_university_assets');
 
 function fictional_university_features ()
 {
+	// Site menu
 	register_nav_menu('header-menu-location', 'Header menu location');
 	register_nav_menu('footer-menu-location-explore', 'Footer menu location explore');
 	register_nav_menu('footer-menu-location-learn', 'Footer menu location learn');
+
 	add_theme_support('title-tag');
 }
 
