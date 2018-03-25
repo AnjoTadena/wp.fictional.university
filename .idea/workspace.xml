@@ -22,10 +22,11 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/fictional-university/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+            <state relative-caret-position="161">
+              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
               <folding>
-                <marker date="1521948206496" expanded="true" signature="679:716" ph="..." />
+                <marker date="1521948479480" expanded="true" signature="243:262" ph="..." />
+                <marker date="1521948479480" expanded="true" signature="775:812" ph="..." />
               </folding>
             </state>
           </provider>
@@ -152,7 +153,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5112000" />
+    <option name="totallyTimeSpent" value="5361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1141,10 +1142,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/fictional-university/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        <state relative-caret-position="161">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding>
-            <marker date="1521948206496" expanded="true" signature="679:716" ph="..." />
+            <marker date="1521948479480" expanded="true" signature="243:262" ph="..." />
+            <marker date="1521948479480" expanded="true" signature="775:812" ph="..." />
           </folding>
         </state>
       </provider>
