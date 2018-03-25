@@ -18,12 +18,6 @@
                                     'theme_location' => 'footer-menu-location-explore'
                                 ]);
                             ?>
-<!--                            <ul>-->
-<!--                                <li><a href="--><?php //echo site_url('/about-us'); ?><!--">About Us</a></li>-->
-<!--                                <li><a href="--><?php //echo site_url('/programs'); ?><!--">Programs</a></li>-->
-<!--                                <li><a href="--><?php //echo site_url('/events'); ?><!--">Events</a></li>-->
-<!--                                <li><a href="--><?php //echo site_url('/campuses'); ?><!--">Campuses</a></li>-->
-<!--                            </ul>-->
                         </nav>
                     </div>
 
@@ -35,11 +29,6 @@
                                    'theme_location' => 'footer-menu-location-learn'
                                 ]);
                             ?>
-<!--                            <ul>-->
-<!--                                <li><a href="--><?php //echo site_url('/legal'); ?><!--">Legal</a></li>-->
-<!--                                <li><a href="--><?php //echo site_url('/privacy-policy'); ?><!--">Privacy</a></li>-->
-<!--                                <li><a href="--><?php //echo site_url('/careers'); ?><!--">Careers</a></li>-->
-<!--                            </ul>-->
                         </nav>
                     </div>
                 </div>
