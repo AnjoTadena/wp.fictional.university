@@ -23,6 +23,11 @@
                         <p><a href="<?php the_permalink(); ?>" class="btn btn--blue">Continue reading &raquo;</a></p>
                     </div>
                 </div>
-        <?php } ?>
+        <?php
+            }
+
+            // Create pagination link
+            echo paginate_links();
+        ?>
     </div>
 <?php get_footer(); ?>
