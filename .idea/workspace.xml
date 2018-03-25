@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="911754f6-c33d-483c-9998-75322fd098ce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fictional-university/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/fictional-university/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fictional-university/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/fictional-university/header.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,14 +19,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/fictional-university/header.php">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/fictional-university/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-              <folding>
-                <marker date="1521944592026" expanded="true" signature="606:643" ph="..." />
-              </folding>
+            <state relative-caret-position="213">
+              <caret line="19" column="75" lean-forward="false" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -148,12 +145,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521905849489</updated>
-      <workItem from="1521905850748" duration="3298000" />
+      <workItem from="1521905850748" duration="3337000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3298000" />
+    <option name="totallyTimeSpent" value="3337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1089,44 +1086,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fictional-university/footer.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fictional-university/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="75" lean-forward="false" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
+        <state relative-caret-position="414">
+          <caret line="18" column="59" lean-forward="false" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
           <folding>
-            <marker date="1521944532367" expanded="true" signature="31:2836" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="101:2822" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="134:2806" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="186:427" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="491:1817" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="546:1192" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="667:1165" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="700:1134" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="752:781" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="853:882" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="954:981" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="1051:1080" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="1250:1794" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="1369:1767" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="1402:1736" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="1454:1480" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="1549:1584" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="1655:1683" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="1870:2787" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="1974:2764" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="2044:2737" ph="..." />
-            <marker date="1521944532367" expanded="true" signature="2847:2861" ph="..." />
+            <marker date="1521944627800" expanded="true" signature="31:1544" ph="..." />
+            <marker date="1521944627800" expanded="true" signature="38:67" ph="..." />
+            <marker date="1521944627800" expanded="true" signature="46:58" ph="..." />
+            <marker date="1521944627800" expanded="true" signature="74:1544" ph="..." />
+            <marker date="1521944627800" expanded="true" signature="107:1544" ph="..." />
+            <marker date="1521944627800" expanded="true" signature="139:1530" ph="..." />
+            <marker date="1521944627800" expanded="true" signature="207:225" ph="..." />
+            <marker date="1521944627800" expanded="true" signature="535:1515" ph="..." />
+            <marker date="1521944627800" expanded="true" signature="581:1108" ph="..." />
+            <marker date="1521944627800" expanded="true" signature="606:643" ph="..." />
+            <marker date="1521944627800" expanded="true" signature="606:1085" ph="..." />
+            <marker date="1521944627800" expanded="true" signature="650:679" ph="..." />
+            <marker date="1521944627800" expanded="true" signature="743:772" ph="..." />
+            <marker date="1521944627800" expanded="true" signature="836:863" ph="..." />
+            <marker date="1521944627800" expanded="true" signature="925:954" ph="..." />
+            <marker date="1521944627800" expanded="true" signature="1018:1043" ph="..." />
+            <marker date="1521944627800" expanded="true" signature="1156:1496" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fictional-university/header.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fictional-university/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding>
-            <marker date="1521944592026" expanded="true" signature="606:643" ph="..." />
-          </folding>
+        <state relative-caret-position="213">
+          <caret line="19" column="75" lean-forward="false" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
+          <folding />
         </state>
       </provider>
     </entry>
