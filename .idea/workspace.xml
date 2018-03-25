@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="911754f6-c33d-483c-9998-75322fd098ce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fictional-university/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/fictional-university/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fictional-university/page.php" afterPath="$PROJECT_DIR$/wp-content/themes/fictional-university/page.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,12 +19,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/fictional-university/footer.php">
+      <file leaf-file-name="page.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/fictional-university/page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="19" column="75" lean-forward="false" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
-              <folding />
+            <state relative-caret-position="323">
+              <caret line="21" column="101" lean-forward="false" selection-start-line="21" selection-start-column="101" selection-end-line="21" selection-end-column="101" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,10 +46,10 @@
       <list>
         <option value="$PROJECT_DIR$/wp-content/themes/fictional-university/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/fictional-university/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/fictional-university/page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/fictional-university/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/fictional-university/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/fictional-university/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fictional-university/page.php" />
       </list>
     </option>
   </component>
@@ -150,7 +152,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3337000" />
+    <option name="totallyTimeSpent" value="4009000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1051,30 +1053,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fictional-university/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="670">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <marker date="1521944091442" expanded="true" signature="5:20" ph="..." />
-            <marker date="1521944091442" expanded="true" signature="29:1178" ph="..." />
-            <marker date="1521944091442" expanded="true" signature="52:1176" ph="..." />
-            <marker date="1521944091442" expanded="true" signature="63:76" ph="..." />
-            <marker date="1521944091442" expanded="true" signature="105:474" ph="..." />
-            <marker date="1521944091442" expanded="true" signature="152:227" ph="..." />
-            <marker date="1521944091442" expanded="true" signature="179:223" ph="..." />
-            <marker date="1521944091442" expanded="true" signature="300:465" ph="..." />
-            <marker date="1521944091442" expanded="true" signature="342:356" ph="..." />
-            <marker date="1521944091442" expanded="true" signature="399:455" ph="..." />
-            <marker date="1521944091442" expanded="true" signature="532:1167" ph="..." />
-            <marker date="1521944091442" expanded="true" signature="603:782" ph="..." />
-            <marker date="1521944091442" expanded="true" signature="1112:1157" ph="..." />
-            <marker date="1521944091442" expanded="true" signature="1126:1142" ph="..." />
-            <marker date="1521944091442" expanded="true" signature="1186:1201" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/fictional-university/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -1114,9 +1092,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/fictional-university/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="19" column="75" lean-forward="false" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
-          <folding />
+        <state relative-caret-position="558">
+          <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+          <folding>
+            <marker date="1521944532367" expanded="true" signature="31:2836" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="101:2822" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="134:2806" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="186:427" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="491:1817" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="546:1192" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="667:1165" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="700:1134" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="752:781" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="853:882" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="954:981" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="1051:1080" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="1250:1794" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="1369:1767" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="1402:1736" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="1454:1480" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="1549:1584" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="1655:1683" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="1870:2787" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="1974:2764" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="2044:2737" ph="..." />
+            <marker date="1521944532367" expanded="true" signature="2847:2861" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fictional-university/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="101" lean-forward="false" selection-start-line="21" selection-start-column="101" selection-end-line="21" selection-end-column="101" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
